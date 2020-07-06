@@ -1,4 +1,4 @@
-# jogo-da-bolinha
+# Jogo da Bolinha
 Um jogo feito na Engine Construct 
 
 ## Quer dar uma olhada de como o jogo funciona na prática?
